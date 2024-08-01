@@ -60,4 +60,4 @@ Problems are sourced from Baekjoon.
 ---
 
 ## 📩 Contact us
-Please contact members individually through Github.
+Please contact members individually through GitHub.
